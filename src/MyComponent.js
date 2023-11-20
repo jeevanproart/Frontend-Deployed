@@ -61,7 +61,7 @@ class MyComponent extends React.Component {
                 duration: 0.5
             });
 
-        }, 500));
+        }, 750));
     }
 
     componentWillUnmount() {
