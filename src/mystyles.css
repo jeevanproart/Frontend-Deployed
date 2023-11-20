@@ -10,11 +10,11 @@ html, body{
 #rect{
     border:2px solid grey;
     position:absolute;
-    top: 33%;
-    left:60%;
+    top: 33vh;
+    left:60vh;
     transform:translate(-50%,-50%);
-    height:18%;
-    width:60%;
+    height:18vh;
+    width:60vh;
     border-radius:25%;
     padding: 2vh;
 
