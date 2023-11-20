@@ -10,8 +10,8 @@ html, body{
 #rect{
     border:2px solid grey;
     position:absolute;
-    top: 33vh;
-    left:60vh;
+    top: 33%;
+    left:60%;
     transform:translate(-50%,-50%);
     height:18vh;
     width:60vh;
